@@ -41,10 +41,11 @@ h6 {
 
 --------------------------------------------------------------*/
 
+
+
 .video-custom {
-  width: 66%; /* Defina a largura desejada */
+  width: 80%; /* Defina a largura desejada */
   max-height: 66%; /* Ajuste a altura máxima desejada */
-  
 }
 
 /*--------------------------------------------------------------
