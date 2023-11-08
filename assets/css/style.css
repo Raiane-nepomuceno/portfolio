@@ -32,6 +32,20 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
+.img-fluid{
+  width: 90%; /* Defina a largura desejada */
+  max-height: 90%; /* Ajuste a altura máxima desejada */
+  }
+/*---------------------------------------------------------
+# Video
+
+--------------------------------------------------------------*/
+
+.video-custom {
+  width: 66%; /* Defina a largura desejada */
+  max-height: 66%; /* Ajuste a altura máxima desejada */
+  
+}
 
 /*--------------------------------------------------------------
 # Back to top button

@@ -5,13 +5,6 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-// Defina a função minhaFuncao
-function minhaFuncao() {
-  window.location.href = "index.html";
-  window.location.href="#about"
-}
-
-
 (function() {
   "use strict";
 
